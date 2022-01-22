@@ -54,7 +54,9 @@ $config = [
                 '<action>'=>'site/action'
             ],
         ],
-    
+        'assetManager' => [
+            'appendTimestamp' => true,
+        ]
     ],
     'params' => $params,
 ];

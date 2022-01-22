@@ -82,6 +82,4 @@ a.desc:after {
 .nav > li > form > button.logout:focus {
     outline: none;
 }
-#w2 li:last-child{
-    margin-left: 200px;
-}
+
